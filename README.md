@@ -1,4 +1,5 @@
 ### Hi There, I'm Victor 🔥🔥
+![snake gif](https://github.com/victor-analyst/victor-analyst/blob/output/github-contribution-grid-snake.gif)
 ##
 - I'm currently working at the company Elis as Analyst
 - I'm currently learning Python 
@@ -30,5 +31,5 @@
   
 </div>
 
-![snake gif](https://github.com/victor-analyst/victor-analyst/blob/output/github-contribution-grid-snake.gif)
+
 
